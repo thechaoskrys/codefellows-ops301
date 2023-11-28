@@ -15,14 +15,14 @@
     -
 
 **Common Ports** 
-     - Telnet:
-     - SSH:
-     - DNS:
-     - SMTP:
-     - HTTP:
-     - HTTPS:
-     - RDP:
-     - Ping:
+- Telnet:
+- SSH:
+- DNS:
+- SMTP:
+- HTTP:
+- HTTPS:
+- RDP:
+- Ping: 
 
 ## Resources
 - [What is a Port Scanner and How Does it Work?](https://www.varonis.com/blog/port-scanning-techniques)
