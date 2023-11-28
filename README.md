@@ -3,8 +3,8 @@ This repository contains my reading notes, ops challenges, and any other Github 
 
 ## Reading Assignments
 
-- [Reading 1: Network Traffic Analysis with Wireshark](reading1.md)
-- [Reading 2: Network scanning with NMAP](reading2.md)
+- [Reading 1: Network Traffic Analysis with Wireshark](reading-assignments/reading1.md)
+- [Reading 2: Network scanning with NMAP](reading-assignments/reading2.md)
 
 ## Coding Challenges
 - [Challenge 2:](ops2-)
