@@ -21,13 +21,13 @@
     - UDP is connectionless. It is typically used for online gaming as it tends to be faster. It does not have any error checking.
 
 **Common Ports** 
-- Telnet: 23
-- SSH: 22
-- DNS: 53
+- Telnet: 23, remote terminal connections
+- SSH: 22, encrypted communication for secure remote access
+- DNS: 53, translates domain names into IP addresses
 - SMTP: 587
-- HTTP: 80
-- HTTPS: 443
-- RDP: 3389
+- HTTP: 80, transmits web pages and other web based content
+- HTTPS: 443, used to encrypt data transmitted between a browser and the website for a secure connection
+- RDP: 3389, remote desktop connections in the Windows environment
 - Ping: ICMP rather than ports
 
 ## Resources
