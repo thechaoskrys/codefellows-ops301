@@ -15,14 +15,14 @@
     -
 
 **Common Ports** 
-- Telnet:
-- SSH:
-- DNS:
-- SMTP:
-- HTTP:
-- HTTPS:
-- RDP:
-- Ping: 
+- Telnet: 23
+- SSH: 22
+- DNS: 53
+- SMTP: 587
+- HTTP: 80
+- HTTPS: 443
+- RDP: 3389
+- Ping: ICMP rather than ports
 
 ## Resources
 - [What is a Port Scanner and How Does it Work?](https://www.varonis.com/blog/port-scanning-techniques)
