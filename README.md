@@ -8,5 +8,5 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Reading 3: Network Segmentation](reading-assignments/reading3.md)
 
 ## Coding Challenges
-- [Challenge 2: Append; Date and Time](code-challenges/ops2-append.sh)
-- [Challenge 3: File Permissions](code-challenges/op3-chmod.sh)
+- [Challenge 2: Append; Date and Time](code-challenges/ops02-append.sh)
+- [Challenge 3: File Permissions](code-challenges/ops03-chmod.sh)
