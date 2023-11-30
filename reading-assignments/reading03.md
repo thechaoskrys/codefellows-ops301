@@ -7,7 +7,7 @@
 
 2. How many octets are found in an IPv4 address?
   - IPv4 is usually represented as a four 8-bit decimal numbers or octets separated by dots, e.g. 127.0.0.1.
-  - **An octet is a group of 8 bits. A bit is the smallest unit of data in computers. Usually a 1 or 0.
+  - **An octet is a group of 8 bits. A bit is the smallest unit of data in computers. Usually a 1 or 0.**
   - [ChatGPT explains octet, where octets are used, and decimal representation vs binary representation](https://chat.openai.com/share/855273a0-61e9-48e2-bce3-e1c6f318e59e)
 
 3. Setting binary aside and using the decimal system, what is the range of numbers found in an octet?
