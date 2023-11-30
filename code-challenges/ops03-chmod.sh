@@ -2,7 +2,7 @@
 
 # Script Name:                  ops03-chmod.sh
 # Author:                       Krystal Reid
-# Date of latest revision:      11/28/2023
+# Date of latest revision:      11/29/2023
 # Purpose:                      changing file permissions
 # Execution                     bash ops03-chmod.sh or ./ops03-chmod.sh or chmod +x ops03-chmod.sh
 # Citations:                    ops301 repo https://github.com/codefellows/seattle-ops-301d14/, ChatGPT https://chat.openai.com/share/4a673f8d-61e2-4822-a588-989e77df4c49
