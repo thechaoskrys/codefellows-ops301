@@ -5,7 +5,7 @@
 # Date of latest revision:      11/30/2023
 # Purpose:                      conditionals in menu systems
 # Execution                     bash ops04-conditionals.sh or ./ops04-conditionals.sh or chmod +x ops04-conditionals.sh
-# Citations:                    ops301 repo https://github.com/codefellows/seattle-ops-301d14/, ChatGPT 
+# Citations:                    ops301 repo https://github.com/codefellows/seattle-ops-301d14/, ChatGPT https://chat.openai.com/share/2ceaf25f-7c84-4a33-b913-112ce1162361
 
 # Create a bash script that launches a menu system with the following options:
 run_it=true                                            # identifies the variable true
