@@ -17,7 +17,7 @@ What are the three options of promiscuous mode and what does each do?
 What is Port Forwarding?
 - Port forwarding is the process of redirecting incoming traffic to the appropriate port or IP address.
 - The incoming packets are intercepted by an application on the router, and gets sent to the appropriate place.
-- [ChatGPT chat explaining port forwarding in simple terms. Eureka moment](https://chat.openai.com/share/855273a0-61e9-48e2-bce3-e1c6f318e59e)
+- [ChatGPT chat explaining port forwarding in simple terms. Eureka moment!!!](https://chat.openai.com/share/855273a0-61e9-48e2-bce3-e1c6f318e59e)
   
 ## Resources
 - [VirtualBox Network Settings Guide](https://www.nakivo.com/blog/virtualbox-network-setting-guide/)
