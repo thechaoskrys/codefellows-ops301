@@ -10,9 +10,9 @@ Which network mode would be best if you wanted to run a server on a VM that coul
 
 What are the three options of promiscuous mode and what does each do?
 - **Allow all:** No restrictions. A VM adapter can see all incoming and outgoing traffic.
-- **llow VMs:** Only the traffic transmitted to and from other VMs are visible. All other traffic is hidden.
+- **Allow VMs:** Only the traffic transmitted to and from other VMs are visible. All other traffic is hidden.
 - **Deny:** This default option hides all traffic that is not intended for the virtual network adapter.
-- **Promiscious mode can be used in bridged network mode, NAT network, Internal Network, and Host-Only Adapter modes.
+- **Promiscious mode** can be used in bridged network mode, NAT network, Internal Network, and Host-Only Adapter modes.
 
 What is Port Forwarding?
 - Port forwarding is the process of redirecting incoming traffic to the appropriate port or IP address.
