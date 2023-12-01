@@ -7,8 +7,10 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Reading 2: Network scanning with NMAP](reading-assignments/reading02.md)
 - [Reading 3: Network Segmentation](reading-assignments/reading03.md)
 - [Reading 4: Routing](reading-assignments/reading04.md)
+- [Reading 5: VPN Tunnel](reading-assignments/reading05.md)
 
 ## Coding Challenges
 - [Challenge 2: Append; Date and Time](code-challenges/ops02-append.sh)
 - [Challenge 3: File Permissions](code-challenges/ops03-chmod.sh)
 - [Challenge 4: Conditionals in Menu Systems](code-challenges/ops04-conditionals.sh)
+- [Challenge 5: Clearing Logs](code-challenges/ops05-logs.sh)
