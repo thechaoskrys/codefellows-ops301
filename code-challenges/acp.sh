@@ -5,7 +5,8 @@ pushtogit(){
     read -p "commit message: " message
     git commit -m "$message"
     git push origin main
-# i want to insert line break here
+    echo
+    
     git status
 }
 pushtogit
