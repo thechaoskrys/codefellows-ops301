@@ -14,33 +14,32 @@ timestamp=$(date "+%Y%m%d%H%M%S")
 
 # Print to the screen the file size of the log files before compression
 print_file_size(){
-    file=$1                                     # $1 is a special argument that represents an argument
-    size=$(du -h "$file" | awk '(print $1')     # du gets the disk usage of file and extracts file size. awk commands print $1 to print the first field of each line
+    file=$1
+    size=$(du -h "$file" | awk '{print $1}')
     echo "File size of $file: $size"
 }
 
 # Creating a backup directory if it doesn't already exist
-mkdir -p "backupdir"                            # -p ensures there is no error in the script if the directory already exists. 
+mkdir -p $backupdir
 
 # Compress the contents of the log files listed below to a backup directory - the file name should contain a time stamp
 compress_log_file() {
     file=$1
     compressed_file="$backupdir/$(basename "$file")-$timestamp.zip"
-    gzip -c "$file" > "$compressedfiles"
-    echo "Compressed $file to $compressedfiles"
-    print_file_size "compressedfiles"
+    gzip -c "$file" > "$compressed_file"
+    echo "Compressed $file to $compressed_file"
+    print_file_size "$compressed_file"
+    print_compressed_file_size "compressed_file"
+
+    # Compare the size of the compressed files to the original log files.
+    ogsize=$(du -h "$file" | awk '{print $1}')
+    compressedsize=$(du -h "$compressed_file" | awk '{print $1}')
+    echo "Compare the OG size: $ogsize to the compressed size: $compressedsize"
 }
 
 # Clear the contents of the log file
 clear_log_file() {
     file=$1
-    echo "" > "$file"                              # clears the content of the file by overwriting it with an empty string.
+    echo "" > "$file"                              
     echo "Contents of $file has been cleared."
 }
-
-# Print to the screen the file size of the compressed file
-
-# Compare the size of the compressed files to the orginal log files.
-ogsize=$(du -h "$file" | awk '{print $1}')
-compressedsize=$(du -h "$compressedfiles" | awk '{print $1}')
-echo Compare the OG size: $ogsize to the compressed size: $compressedsize"
