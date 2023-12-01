@@ -11,3 +11,4 @@ This repository contains my reading notes, ops challenges, and any other Github 
 ## Coding Challenges
 - [Challenge 2: Append; Date and Time](code-challenges/ops02-append.sh)
 - [Challenge 3: File Permissions](code-challenges/ops03-chmod.sh)
+- [Challenge 4: Conditionals in Menu Systems](code-challenges/ops04-conditionals.sh)
