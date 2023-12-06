@@ -10,6 +10,7 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Reading 5: VPN Tunnel](reading-assignments/reading05.md)
 - [Reading 6: Network Address Translation](reading-assignments/reading06.md)
 - [Reading 7: Web Server Deployment](reading-assignments/reading07.md)
+- [Reading 8: RADIUS Authentication](reading-assignments/reading08.md)
 
 ## Coding Challenges
 - [Challenge 2: Append; Date and Time](code-challenges/ops02-append.sh)
@@ -17,4 +18,5 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Challenge 4: Conditionals in Menu Systems](code-challenges/ops04-conditionals.sh)
 - [Challenge 5: Clearing Logs](code-challenges/ops05-logs.sh)
 - [Challenge 6: Bash in Python](code-challenges/ops06-bash.py)
-- [Challenge 7: Directory Creation](code-challenge/ops07-createdir.py)
+- [Challenge 7: Directory Creation](code-challenges/ops07-createdir.py)
+- [Challenge 8: Python Collections](code-challenges/ops08-collections.py)   
