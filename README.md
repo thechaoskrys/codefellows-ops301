@@ -11,6 +11,7 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Reading 6: Network Address Translation](reading-assignments/reading06.md)
 - [Reading 7: Web Server Deployment](reading-assignments/reading07.md)
 - [Reading 8: RADIUS Authentication](reading-assignments/reading08.md)
+- [Reading 9: Traffic Mirroring](reading-assignments/reading09.md)
 
 ## Coding Challenges
 - [Challenge 2: Append; Date and Time](code-challenges/ops02-append.sh)
@@ -19,4 +20,5 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Challenge 5: Clearing Logs](code-challenges/ops05-logs.sh)
 - [Challenge 6: Bash in Python](code-challenges/ops06-bash.py)
 - [Challenge 7: Directory Creation](code-challenges/ops07-createdir.py)
-- [Challenge 8: Python Collections](code-challenges/ops08-collections.py)   
+- [Challenge 8: Python Collections](code-challenges/ops08-collections.py)
+- [Challenge 9: Python Conditionals](code-challenges/ops09-boolean.py)   
