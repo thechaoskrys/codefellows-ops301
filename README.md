@@ -12,6 +12,13 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Reading 7: Web Server Deployment](reading-assignments/reading07.md)
 - [Reading 8: RADIUS Authentication](reading-assignments/reading08.md)
 - [Reading 9: Traffic Mirroring](reading-assignments/reading09.md)
+- [Reading 10: VPC](reading-assignments/reading10.md)
+- [Reading 11: Windows Server](reading-assignments/reading11.md)
+- [Reading 12: Domain Controller](reading-assignments/reading12.md)
+- [Reading 13: Active Directory](reading-assignments/reading13.md)
+- [Reading 14: Group Policy](reading-assignments/reading14.md)
+- [Reading 14.2: Diversity & Inclusion in the Tech Industry](reading-assignments/reading14-diversityintech.md)
+
 
 ## Coding Challenges
 - [Challenge 2: Append; Date and Time](code-challenges/ops02-append.sh)
