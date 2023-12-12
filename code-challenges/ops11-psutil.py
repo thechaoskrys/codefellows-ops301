@@ -15,6 +15,8 @@ Time spent for servicing software interrupts
 Time spent by other operating systems running in a virtualized environment
 Time spent running a virtual CPU for guest operating systems under the control of the Linux kernel
 
+Resource: https://chat.openai.com/share/e5cb6e21-259d-4784-8d95-ad2355e8dfe4
+
 '''
 
 import psutil
