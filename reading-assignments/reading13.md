@@ -4,10 +4,10 @@
 
 **1. What exactly is “Active Directory” and are the key services it provides?**
 - It is an identity management service for Windows domain networks. The key services it provides are a schema, global catalog, query and index mechanism, and replication service.
-       - A **schema** that defines the classes of objects and attributes contained in the directory.
-       - A **global catalog** that contains detailed information about every object in the directory.
-       - A **query and index mechanism** that allows users, administrators, and applications to efficiently find directory information.
-       - A **replication service** that disseminates directory data across the network.
+    - A **schema** that defines the classes of objects and attributes contained in the directory.
+    - A **global catalog** that contains detailed information about every object in the directory.
+    - A **query and index mechanism** that allows users, administrators, and applications to efficiently find directory information.
+    - A **replication service** that disseminates directory data across the network.
 
 
 **2. What are the differences between a domain, forest, and tree in Active Directory?**
