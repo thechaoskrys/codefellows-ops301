@@ -31,6 +31,6 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Challenge 9: Python Conditionals](code-challenges/ops09-boolean.py)
 - [Challenge 10: ](code-challenges/ops10-)
 - [Challenge 11: Psutil](code-challenges/ops11-psutil.py)
-- [Challenge 12: Python Requests Library](code-challenges/ops12-)
+- [Challenge 12: Python Requests Library](code-challenges/ops12-requests.py)
 - [Challenge 13: PowerShell AD Automation](code-challenges/ops13-)
 - [Challenge 14: Python Malware Analysis](code-challenges/ops14-)
