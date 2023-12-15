@@ -33,4 +33,4 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Challenge 11: Psutil](code-challenges/ops11-psutil.py)
 - [Challenge 12: Python Requests Library](code-challenges/ops12-requests.py)
 - [Challenge 13: PowerShell AD Automation](code-challenges/ops13-automation.ps1)
-- [Challenge 14: Python Malware Analysis](code-challenges/ops14-malware.md)
+- [Challenge 14: Python Malware Analysis](code-challenges/ops14-malware.py)
