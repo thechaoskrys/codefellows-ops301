@@ -15,7 +15,7 @@
 - The local computer policy is the first to be processed, followed by the site level to domain AD policies, then finally into organization units. If there happen to be conflicting policies in LSDOU, the last applied policies win out.
 
 ## Resources
-- [What is Group Policy and What Role Does It Play in Data Security](What is Group Policy and What Role Does It Play in Data Security)
+- [What is Group Policy and What Role Does It Play in Data Security](https://www.lepide.com/blog/what-is-group-policy-gpo-and-what-role-does-it-play-in-data-security/)
 - [Wireless Standards](https://www.professormesser.com/network-plus/n10-008/n10-008-video/wireless-standards-n10-008/)
 - [Wireless Technologies](https://www.professormesser.com/network-plus/n10-008/n10-008-video/wireless-standards-n10-008/)
 - [Wireless Encryption](https://www.professormesser.com/network-plus/n10-008/n10-008-video/wireless-encryption-n10-008/)
