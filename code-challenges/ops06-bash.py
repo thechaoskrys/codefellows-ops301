@@ -5,6 +5,21 @@
 # Execution:                            python3 ops06-bash.py
 # Additional Resources                  https://chat.openai.com/share/6ba3377b-9b6f-4d84-9765-3fc3387fa5d9
 
+'''
+In Ubuntu, create a Python script that executes a few bash commands successfully. Indicate in comments how you achieved this.
+
+Requirements:
+
+The Python module “os” must be utilized.
+At least three variables must be declared and referenced in Python.
+The Python function print() must be used at least three times.
+Include execution of the following bash commands inside your Python script:
+
+whoami
+ip a
+lshw -short
+
+'''
 # Import the os module
 import os
 

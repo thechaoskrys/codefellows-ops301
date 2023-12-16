@@ -7,6 +7,13 @@
 # Execution:                            python3 ops07-createdir.py
 # Additional Resources                  https://chat.openai.com/share/9137862f-ad7b-417d-a800-41287f712a25
 
+'''
+Create a Python script that generates all directories, sub-directories and files for a user-provided directory path.
+
+Script must ask the user for a file path and read a user input string into a variable.
+Script must use the os.walk() function from the os library.
+Script must enclose the os.walk() function within a python function that hands it the user input file path.
+'''
 # Import libraries
 import os
 
