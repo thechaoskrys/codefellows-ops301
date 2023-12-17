@@ -29,7 +29,7 @@ This repository contains my reading notes, ops challenges, and any other Github 
 - [Challenge 7: Directory Creation](code-challenges/ops07-createdir.py)
 - [Challenge 8: Python Collections](code-challenges/ops08-collections.py)
 - [Challenge 9: Python Conditionals](code-challenges/ops09-boolean.py)
-- [Challenge 10: ](code-challenges/ops10-filehandling.py)
+- [Challenge 10: Python File Handling](code-challenges/ops10-filehandling.py)
 - [Challenge 11: Psutil](code-challenges/ops11-psutil.py)
 - [Challenge 12: Python Requests Library](code-challenges/ops12-requests.py)
 - [Challenge 13: PowerShell AD Automation](code-challenges/ops13-automation.ps1)
